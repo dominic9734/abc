@@ -3,5 +3,6 @@ public class Main {
         System.out.println("agfiasfj");
 
         System.out.println("dm");
+        System.out.println("asfas");
     }
 }
